@@ -3,7 +3,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-pending-orange.svg)]()
+[![DOI](https://img.shields.io/badge/DOI-status-active-success.svg)]()
 
 ---
 
